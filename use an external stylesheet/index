@@ -1,0 +1,7 @@
+<html>
+<link href="style.css" rel="stylesheet">
+<h1>The border- redius property</h1>
+<p>Rounded corners for an element with a specified background color:</p>
+<p id="rcorners1">Rounded corners!</p>
+</html>
+
